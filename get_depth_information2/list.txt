@@ -1,5 +1,3 @@
-../get_depth_information2/left01.jpg
-../get_depth_information2/right01.jpg
 ../get_depth_information2/left02.jpg
 ../get_depth_information2/right02.jpg
 ../get_depth_information2/left03.jpg
@@ -26,3 +24,5 @@
 ../get_depth_information2/right13.jpg
 ../get_depth_information2/left14.jpg
 ../get_depth_information2/right14.jpg
+../get_depth_information2/left15.jpg
+../get_depth_information2/right15.jpg
